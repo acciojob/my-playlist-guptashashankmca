@@ -49,3 +49,6 @@ audio{
 .player_two{
 	background-color:rgb(255, 255, 255);
 }
+ul a{
+	text-decoration-line:none;
+}
